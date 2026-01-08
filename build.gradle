@@ -3,7 +3,7 @@ plugins {
     id "com.modrinth.minotaur" version "2.+"
 }
 
-group = 'io.freddi'
+group = 'net.uebliche'
 version = '1.1.2-Release'
 
 ext.baseCoordinates = "${project.name}-${project.version}"

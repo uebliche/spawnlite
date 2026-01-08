@@ -1,4 +1,4 @@
-package io.freddi.spawnplugin;
+package net.uebliche.spawnplugin;
 
 /**
  * this is just for the luls
