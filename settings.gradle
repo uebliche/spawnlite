@@ -1,1 +1,9 @@
+pluginManagement {
+    includeBuild("../../web/mcmeta/gradle-plugin")
+    repositories {
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
 rootProject.name = 'spawnlite'
